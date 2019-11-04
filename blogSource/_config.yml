@@ -4,7 +4,7 @@
 
 # Site
 title: Hexo
-subtitle:
+subtitle: 任务：熬夜修仙(1/1)
 description:
 keywords:
 author: GaoYuan
@@ -98,4 +98,4 @@ deploy:
   type: git
   repo: https://github.com/GGaoyuan/GGaoyuan.github.io.git
   branch: master
-  message: updated
+  message: new update
